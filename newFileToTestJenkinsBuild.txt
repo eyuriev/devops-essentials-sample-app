@@ -1,1 +1,2 @@
 newFileToTestJenkinsBuild
+Add some text to trigger 2nd build
